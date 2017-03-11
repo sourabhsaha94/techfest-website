@@ -1,0 +1,12 @@
+#header {
+    padding: 0 0 0 0;
+}
+
+.main1{
+}
+#arrow1{
+    display: none;
+    position: fixed !important;
+    left: 90% !important;
+    top: 90% !important;
+}
